@@ -24,9 +24,9 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2 transition-smooth hover:opacity-80">
-            <Heart className="h-8 w-8 text-hope-orange" />
+         
             <span className="font-heading font-bold text-xl text-foreground">
-              Hope  Foundation
+             🇭‌🇴‌🇵‌🇪‌ 🇫‌🇴‌🇺‌🇳‌🇩‌🇦‌🇹‌🇮‌🇴‌🇳‌
             </span>
           </Link>
 
