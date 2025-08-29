@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="flex items-center space-x-2 mb-4">
               <Heart className="h-8 w-8 text-hope-orange" />
               <span className="font-heading font-bold text-xl">
-                Hope Haven Foundation
+                🇭‌🇴‌🇵‌🇪‌
               </span>
             </div>
             <p className="font-body text-background/80 mb-6 max-w-md">
