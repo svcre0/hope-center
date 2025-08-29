@@ -26,7 +26,7 @@ const Header = () => {
           <Link to="/" className="flex items-center space-x-2 transition-smooth hover:opacity-80">
          
             <span className="font-heading font-bold text-xl text-foreground">
-             🇭‌🇴‌🇵‌🇪‌ 🇫‌🇴‌🇺‌🇳‌🇩‌🇦‌🇹‌🇮‌🇴‌🇳‌
+             🇭‌🇴‌🇵‌🇪‌ ‌
             </span>
           </Link>
 
