@@ -26,7 +26,7 @@ const HeroSection = () => {
           </h1>
           
           <p className="font-body text-lg sm:text-xl text-background/90 mb-8 leading-relaxed">
-            At Hope Haven Foundation, we believe every orphaned child deserves love, 
+            At Hope Acres Foundation, we believe every orphaned child deserves love, 
             education, and the opportunity to build a brighter future. Join us in 
             transforming lives through compassion and care.
           </p>
