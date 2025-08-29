@@ -97,13 +97,13 @@ const Footer = () => {
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4 text-hope-orange" />
                 <span className="text-background/80 text-sm">
-                  123 Hope Street, Compassion City, CC 12345
+                  123 lyndhurst Street, linksfield City, C 1245
                 </span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4 text-hope-orange" />
                 <span className="text-background/80 text-sm">
-                  +1 (555) 123-HOPE
+                  +27 (555) 123-4567
                 </span>
               </div>
               <div className="flex items-center space-x-2">
@@ -118,7 +118,7 @@ const Footer = () => {
 
         <div className="border-t border-background/20 mt-8 pt-8 text-center">
           <p className="font-body text-background/60 text-sm">
-            © 2024 Hope Haven Foundation. All rights reserved. A registered 501(c)(3) nonprofit organization.
+            © 2024 Hope  Foundation. All rights reserved. A registered 501(c)(3) nonprofit organization.
           </p>
         </div>
       </div>
